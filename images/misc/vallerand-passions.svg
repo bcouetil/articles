@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="470" viewBox="0 0 820 470" font-family="Helvetica, Arial, sans-serif">
+  <text x="410" y="36" text-anchor="middle" font-size="22" font-weight="bold" fill="#222">La passion déclarée par 539 étudiants</text>
+  <text x="410" y="62" text-anchor="middle" font-size="15" fill="#666">Vallerand et al., 2003, tableau 1 (en % des étudiants)</text>
+  <g font-size="16" fill="#333">
+    <text x="240" y="104" text-anchor="end">Sport individuel</text>
+    <rect x="250" y="88" width="500" height="22" fill="#9db4d0"/>
+    <text x="758" y="104">34,9</text>
+
+    <text x="240" y="148" text-anchor="end">Sport collectif</text>
+    <rect x="250" y="132" width="366" height="22" fill="#9db4d0"/>
+    <text x="624" y="148">25,5</text>
+
+    <text x="240" y="192" text-anchor="end">Loisirs passifs</text>
+    <rect x="250" y="176" width="216" height="22" fill="#9db4d0"/>
+    <text x="474" y="192">15,1</text>
+
+    <text x="240" y="236" text-anchor="end">Pratique musicale</text>
+    <rect x="250" y="220" width="144" height="22" fill="#9db4d0"/>
+    <text x="402" y="236">10,0</text>
+
+    <text x="240" y="280" text-anchor="end">Lecture</text>
+    <rect x="250" y="264" width="71" height="22" fill="#9db4d0"/>
+    <text x="329" y="280">5,0</text>
+
+    <text x="240" y="324" text-anchor="end">Arts</text>
+    <rect x="250" y="308" width="57" height="22" fill="#9db4d0"/>
+    <text x="315" y="324">4,0</text>
+
+    <text x="240" y="368" text-anchor="end" font-weight="bold" fill="#c0392b">Travail ou études</text>
+    <rect x="250" y="352" width="51" height="22" fill="#c0392b"/>
+    <text x="309" y="368" font-weight="bold" fill="#c0392b">3,6</text>
+
+    <text x="240" y="412" text-anchor="end">Relations</text>
+    <rect x="250" y="396" width="28" height="22" fill="#9db4d0"/>
+    <text x="286" y="412">2,0</text>
+  </g>
+  <line x1="250" y1="80" x2="250" y2="426" stroke="#999" stroke-width="1"/>
+</svg>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="420" viewBox="0 0 1000 420">
+<rect width="1000" height="420" fill="#000000"/>
+<defs>
+<clipPath id="c1"><circle cx="324" cy="210" r="58"/></clipPath>
+<clipPath id="c2"><circle cx="574" cy="210" r="58"/></clipPath>
+<clipPath id="c3"><circle cx="574" cy="210" r="58"/></clipPath>
+<clipPath id="c4"><circle cx="625" cy="261" r="58"/></clipPath>
+<clipPath id="c5"><circle cx="574" cy="210" r="58"/></clipPath>
+<clipPath id="c6"><circle cx="625" cy="261" r="58"/></clipPath>
+<clipPath id="c7"><circle cx="824" cy="210" r="58"/></clipPath>
+<clipPath id="c8"><circle cx="824" cy="210" r="58"/></clipPath>
+<clipPath id="c9"><circle cx="824" cy="210" r="58"/></clipPath>
+<clipPath id="c10"><circle cx="875" cy="261" r="58"/></clipPath>
+<clipPath id="c11"><circle cx="875" cy="261" r="58"/></clipPath>
+<clipPath id="c12"><circle cx="875" cy="159" r="58"/></clipPath>
+<clipPath id="c13"><circle cx="824" cy="210" r="58"/></clipPath>
+<clipPath id="c14"><circle cx="875" cy="261" r="58"/></clipPath>
+<clipPath id="c15"><circle cx="824" cy="210" r="58"/></clipPath>
+<clipPath id="c16"><circle cx="875" cy="261" r="58"/></clipPath>
+<clipPath id="c17"><circle cx="824" cy="210" r="58"/></clipPath>
+<clipPath id="c18"><circle cx="875" cy="159" r="58"/></clipPath>
+<clipPath id="c19"><circle cx="875" cy="261" r="58"/></clipPath>
+<clipPath id="c20"><circle cx="875" cy="159" r="58"/></clipPath>
+<clipPath id="c21"><circle cx="824" cy="210" r="58"/></clipPath>
+<clipPath id="c22"><circle cx="875" cy="261" r="58"/></clipPath>
+<clipPath id="c23"><circle cx="875" cy="159" r="58"/></clipPath>
+</defs>
+<circle cx="74" cy="210" r="58" fill="#b8cff0"/>
+<circle cx="74" cy="210" r="58" fill="none" stroke="#6a86b8" stroke-width="3"/>
+<circle cx="324" cy="210" r="58" fill="#b8cff0"/>
+<circle cx="375" cy="261" r="58" fill="#f5df9a"/>
+<g clip-path="url(#c1)"><circle cx="375" cy="261" r="58" fill="#b1b591"/></g>
+<circle cx="324" cy="210" r="58" fill="none" stroke="#6a86b8" stroke-width="3"/>
+<circle cx="375" cy="261" r="58" fill="none" stroke="#c9a13d" stroke-width="3"/>
+<circle cx="574" cy="210" r="58" fill="#b8cff0"/>
+<circle cx="625" cy="261" r="58" fill="#f5df9a"/>
+<circle cx="625" cy="159" r="58" fill="#f2b8b8"/>
+<g clip-path="url(#c2)"><circle cx="625" cy="261" r="58" fill="#b1b591"/></g>
+<g clip-path="url(#c3)"><circle cx="625" cy="159" r="58" fill="#af95ad"/></g>
+<g clip-path="url(#c4)"><circle cx="625" cy="159" r="58" fill="#e9a16f"/></g>
+<g clip-path="url(#c6)"><g clip-path="url(#c5)"><circle cx="625" cy="159" r="58" fill="#a88369"/></g></g>
+<circle cx="574" cy="210" r="58" fill="none" stroke="#6a86b8" stroke-width="3"/>
+<circle cx="625" cy="261" r="58" fill="none" stroke="#c9a13d" stroke-width="3"/>
+<circle cx="625" cy="159" r="58" fill="none" stroke="#c47a7a" stroke-width="3"/>
+<circle cx="824" cy="210" r="58" fill="#b8cff0"/>
+<circle cx="875" cy="261" r="58" fill="#f5df9a"/>
+<circle cx="875" cy="159" r="58" fill="#f2b8b8"/>
+<circle cx="926" cy="210" r="58" fill="#bfe3b8"/>
+<g clip-path="url(#c7)"><circle cx="875" cy="261" r="58" fill="#b1b591"/></g>
+<g clip-path="url(#c8)"><circle cx="875" cy="159" r="58" fill="#af95ad"/></g>
+<g clip-path="url(#c9)"><circle cx="926" cy="210" r="58" fill="#8ab8ad"/></g>
+<g clip-path="url(#c10)"><circle cx="875" cy="159" r="58" fill="#e9a16f"/></g>
+<g clip-path="url(#c11)"><circle cx="926" cy="210" r="58" fill="#b8c76f"/></g>
+<g clip-path="url(#c12)"><circle cx="926" cy="210" r="58" fill="#b5a485"/></g>
+<g clip-path="url(#c14)"><g clip-path="url(#c13)"><circle cx="875" cy="159" r="58" fill="#a88369"/></g></g>
+<g clip-path="url(#c16)"><g clip-path="url(#c15)"><circle cx="926" cy="210" r="58" fill="#84a169"/></g></g>
+<g clip-path="url(#c18)"><g clip-path="url(#c17)"><circle cx="926" cy="210" r="58" fill="#83857d"/></g></g>
+<g clip-path="url(#c20)"><g clip-path="url(#c19)"><circle cx="926" cy="210" r="58" fill="#ae8f50"/></g></g>
+<g clip-path="url(#c23)"><g clip-path="url(#c22)"><g clip-path="url(#c21)"><circle cx="926" cy="210" r="58" fill="#7e744b"/></g></g></g>
+<circle cx="824" cy="210" r="58" fill="none" stroke="#6a86b8" stroke-width="3"/>
+<circle cx="875" cy="261" r="58" fill="none" stroke="#c9a13d" stroke-width="3"/>
+<circle cx="875" cy="159" r="58" fill="none" stroke="#c47a7a" stroke-width="3"/>
+<circle cx="926" cy="210" r="58" fill="none" stroke="#6a9a62" stroke-width="3"/>
+</svg>
